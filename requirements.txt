@@ -1,0 +1,9 @@
+cassandra-driver
+kafka-python
+faker
+flask
+dash
+plotly
+pandas
+numpy
+requests
